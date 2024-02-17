@@ -6,4 +6,4 @@
 - There will be a mix of packaged projects you can download and play or videos to watch.
 - I hope you enjoy my previous works.
 
-[Click Here To See My portfolio](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
+[Click here to see my portfolio](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
