@@ -1,0 +1,5 @@
+About Paintball World Demo:
+
+I wanted to showcase level design in a fun, first person shooter concept level. This level showcases interactable objects only if the projectile, not the player, hits
+the object. There are also enemies that are fully animated. Sadly, I could not find free attack animations when making this project. As such, I did not include a combat
+system. However, there is a defeat trigger hit box should the player fall off the platforms. 

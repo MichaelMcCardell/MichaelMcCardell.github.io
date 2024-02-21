@@ -1,0 +1,6 @@
+About Clean Your Room Demo:
+
+This is a item collector concept that can easily be built upon. The player is tasked with collecting all red tokens. To collect, the player must run into the red token and 
+press E to collect. The player will be able to leave the room once all tokens have been collected. This features the use of item collecting and a interactive destructive wall. 
+The tokens also play a audio noise when item is collected. This was so the player would recieve some sort of feedback besides just a actor vanishing into thin air. I included
+this to showcase my use of the built in tools of Unreal Engine Blueprint Script.

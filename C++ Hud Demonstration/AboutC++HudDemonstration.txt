@@ -1,0 +1,6 @@
+About C++ Hud Demonstration
+
+This is a short video of a project I made during my time at SNHU. This is showing a hud, fully powered by C++. As you can see in the video, when the player fires the gun,
+it takes MP. If they player has no MP, they cannot fire. The player also can't fire if the weapon is on its cooldown period where it changes to solid grey. It also showcases
+damage red indicator after player enters fire, health, and player picking up health.I encluded this to show I have the understanding of a player HUD and how to effectively
+design one.
