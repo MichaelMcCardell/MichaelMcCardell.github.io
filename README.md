@@ -1,9 +1,15 @@
-## Welcome to my game developer portfolio
+<h1>Hi, I'm Michael McCardell!</h1>
 
+<h2>👨‍💻 Game Developer:</h2>
 
-- Here you will find a variety of projects I have made.
-- All projects made on Unreal Engine.
-- There will be a mix of packaged projects you can download and play or videos to watch.
-- I hope you enjoy my previous works.
+- <b>Game Development Projects</b>
+  - [Projects in Unreal Engine](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
 
-[Click here to see my portfolio](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
+<h2>📺 Popular YouTube Videos</h2>
+  - under construction -
+
+<h2> 🤳 Connect with me:</h2>
+
+[youtube]: https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg
+[linkedin]: https://www.linkedin.com/in/michael-mccardell-964955246/
+
