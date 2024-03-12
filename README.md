@@ -13,6 +13,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[youtube]: https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg
-[linkedin]: https://www.linkedin.com/in/michael-mccardell-964955246/
-
+- [YouTube Channel](https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg)
+- [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
