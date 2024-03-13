@@ -1,9 +1,17 @@
-## Welcome to my game developer portfolio
+<h1>Hi, I'm Michael McCardell!</h1>
 
+<h2>👨‍💻 Game Developer:</h2>
 
-- Here you will find a variety of projects I have made.
-- All projects made on Unreal Engine.
-- There will be a mix of packaged projects you can download and play or videos to watch.
-- I hope you enjoy my previous works.
+- <b>Unreal Engine Projects</b>
+  - [2D Side Scroller Demo](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/tree/main/2D%20Side%20Scroller%20Demo)
+  - [C++ HUD](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/tree/main/C%2B%2B%20Hud%20Demonstration)
+  - [Clean Your Room Demo](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/tree/main/Clean%20Your%20Room%20Demo)
+  - [Paintball World Demo](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/tree/main/Paintball%20World%20Demo)
 
-[Click here to see my portfolio](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
+<h2>📺 Popular YouTube Videos</h2>
+  - under construction -
+
+<h2> 🤳 Connect with me:</h2>
+
+- [YouTube Channel](https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg)
+- [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
