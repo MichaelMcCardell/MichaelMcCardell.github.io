@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael McCardell!</h1>
 
-<h2>👨‍💻 Game Developer:</h2>
+<h2> Game Developer:</h2>
 
 - <b>Unreal Engine Projects</b>
   - [2D Side Scroller Demo](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/tree/main/2D%20Side%20Scroller%20Demo)
