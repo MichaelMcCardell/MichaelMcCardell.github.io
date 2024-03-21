@@ -1,0 +1,7 @@
+About 2D Side Scroller Demo:
+
+This is a Castlevania inspired 2D demo made early during my last year of college with a team. I acted as team lead and level designer. I wanted to make this the star 
+of my portfolio as I am very proud of this project. I did the initial rough draft lay out of the level, enemy and power up placement, and planned out game mechanics.
+I wanted to show case this as I think making fun side scrolling levels can be challenging. We had bigger ideas for this level. Such as a giant rat chasing you in the
+underground section of the demo. We could never make that work quite right. After the class, I went ahead and added two doors to the level. One that closes you in on a 
+boss fight and another where you have to run into a chest to open to progress.
