@@ -1,6 +1,4 @@
-<h1>Hi, I'm Michael McCardell!</h1>
-
-<h2> Game Developer & Designer:</h2>
+<h1>Game Developer & Designer:</h1>
 
 ### Education
 B.S. Game Programming & Development 
