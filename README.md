@@ -1,6 +1,3 @@
-![Face](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/530c36b2-ab21-4bfe-bc6d-3c634545a99a)
-
-
 <h1>Game Developer & Designer:</h1>
 
 ### Education
