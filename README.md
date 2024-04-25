@@ -8,12 +8,16 @@ B.S. Game Programming & Development
 ![Degree image](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/2604bcdf-3098-4865-85ce-7b0bfc574b48)
 
   
-### Work Experience
-- No job in the games industry as of yet, you can change that!
+<h1>Work Experience</h1>
+
+### Volunteer at Inchworm Games!(https://www.linkedin.com/company/inchwormgames/)
+- Started on 3/21/24 - Present
+- Job Responsibilities: Review game design documents intended for those learning game engines. Build these simple games in engine while offering ideas for improvements if needed
 
 <h1> Personal/School Projects </h1>
 
 ### 2D Side Scroller Demo
+
 ![2D Demo Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/154941dd-7fa3-4b83-8b6a-da34ad6d42bd)
 
 Project overview and responsibilities: I acted as team lead and co level designer. I made the initial sketch to this level and made changes based on team feedback. After the level plan was finalized,
