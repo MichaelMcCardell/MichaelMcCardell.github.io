@@ -1,13 +1,5 @@
 <h1>Game Developer & Designer:</h1>
 
-### Education
-B.S. Game Programming & Development 
-- Southern New Hampshire University (April 2024)
-- GPA 3.77
-- Magna Cum Laude
-![Degree image](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/2604bcdf-3098-4865-85ce-7b0bfc574b48)
-
-  
 <h1>Work Experience</h1>
 
 ### Volunteer at Inchworm Games!(https://www.linkedin.com/company/inchwormgames/)
