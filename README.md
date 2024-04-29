@@ -23,7 +23,7 @@ team members with coding if needed. As team lead, it was also my responsibility 
 ![C++ HUD Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/56f549d8-c603-4844-8d5a-15f8581bf492)
 
 Project overview: This was my first big project using just C++ with little to no blueprints. The HUD while inspired by Witcher 3 is fully powered by C++ with only blueprints to place bar on screen, adding it to viewport, and additional animation
-code for the health bar and magic bar to go up and down. The gun turns grey when it is on cooldown preventing spamming, fire damages the player, the cubes heal the player, and the player can't fire the gun if magic is too low and must wait for regen to kick in. This was made by me alone over the course of a few weeks.
+code for the health bar and magic bar to go up and down. The gun turns grey when it is on cooldown preventing spamming, fire damages the player, the cubes heal the player, and the player can't fire the gun if magic is too low and must wait for regen to kick in. This was made by me alone.
 - [Video link of C++ Hud and actors](https://www.youtube.com/watch?v=n6VMrL1VW34&ab_channel=MichaelMcCardell)
 - [Download the video here!](https://michael-mccardell.itch.io/hud-systems-demo)
 
@@ -32,7 +32,7 @@ code for the health bar and magic bar to go up and down. The gun turns grey when
 ![CleanYourRoom Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/3815cb30-1ac9-4970-9c1d-c80e9255e5b5)
 
 Project overview: The player must collect all red tokens before they are allowed to interact with the door and leave. Player collects the tokens by going to the red cubes and pressing E to collect. The cube actor then gets destroyed
-in the level and a mario coin effect plays confirming the token has been collected. (No one tell Nintendo, please). The level also features a destructable wall that breaks apart with physics with its own sound effect. This was a solo project done in a few weeks.
+in the level and a mario coin effect plays confirming the token has been collected. (No one tell Nintendo, please). The level also features a destructable wall that breaks apart with physics with its own sound effect. This was a solo project.
 - [Video link of Clean Your Room Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0&ab_channel=MichaelMcCardell)
 - [Play the game here!](https://michael-mccardell.itch.io/item-collector)
   
@@ -41,7 +41,7 @@ in the level and a mario coin effect plays confirming the token has been collect
 ![Paintball World Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/52d5cbc2-f24a-4658-b4c8-03d8100a0ac3)
 
 Project overview: This is a FPS project. The player fires paintball guns from their paintball gun. The gun is used to destroy enemies that rush the player. No combat system so enemies just rush player and stand in the way. The gun also moves bright red objects that move 
-only if hit by the paintball gun. The player will have to use this mechanic to reach the goal. The splat the paintball leaves when hitting a actor also has a random color element to prevent it from feeling too dull. This solo project was done over the course of a week.
+only if hit by the paintball gun. The player will have to use this mechanic to reach the goal. The splat the paintball leaves when hitting a actor also has a random color element to prevent it from feeling too dull. This solo project.
 - [Video link of Paintball World Demo](https://www.youtube.com/watch?v=wZSvrv_0dvc&ab_channel=MichaelMcCardell)
 - [Play the game here!](https://michael-mccardell.itch.io/paintball-demo)
 
