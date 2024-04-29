@@ -1,5 +1,13 @@
 <h1>Game Developer & Designer:</h1>
 
+![Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/900b5316-837b-4a66-9f68-7f88b5bf5db4)
+
+<h1>About me:</h1>
+
+
+
+- [YouTube Channel](https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg)
+- [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
 <h1>Work Experience</h1>
 
 ### Volunteer at Inchworm Games!(https://www.linkedin.com/company/inchwormgames/)
@@ -45,7 +53,3 @@ only if hit by the paintball gun. The player will have to use this mechanic to r
 - [Video link of Paintball World Demo](https://www.youtube.com/watch?v=wZSvrv_0dvc&ab_channel=MichaelMcCardell)
 - [Play the game here!](https://michael-mccardell.itch.io/paintball-demo)
 
-<h2>  Connect with me:</h2>
-
-- [YouTube Channel](https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg)
-- [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
