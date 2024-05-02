@@ -1,18 +1,11 @@
 <h1>Game Developer & Designer</h1>
 
-![Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/900b5316-837b-4a66-9f68-7f88b5bf5db4)
-
-<h1>About me</h1>
-
-Hi there! I am Michael McCardell. I am a fresh SNHU graduate. I am currently looking for a opprotunity in the games industry. If it is Player Controllers, Camera Programming, Level Design, Enemy Design, Event Scripting, QA,
-anything and everything in games I want to do and help bring your projects to life!
-
-- [YouTube Channel](https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg)
 - [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
 - [Resume](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/Michael_McCardell_Resume.pdf)
+  
 <h1>Work Experience</h1>
 
-### Volunteer at Inchworm Games!(https://www.linkedin.com/company/inchwormgames/)
+### Volunteer Game Developer at Inchworm Games!(https://www.linkedin.com/company/inchwormgames/)
 - Started on 3/21/24 - Present
 - Job Responsibilities: Review game design documents intended for those learning game engines. Build these simple games in engine while offering ideas for improvements if needed
 
