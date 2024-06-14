@@ -6,7 +6,8 @@
 <h1>Work Experience</h1>
 
 
-### Volunteer Game Developer at [Astro Games Studio](https://www.linkedin.com/company/astrogamestudio/)
+### Game Developer at [Astro Games Studio](https://www.linkedin.com/company/astrogamestudio/)
+Project MissInfoWar - More info soon!
 - Started on 5/21/24 - present
 - Code Development: Produce clean, efficient, and maintainable code for different aspects of the game, including AI, user interfaces, and gameplay
 - QA and Review: Participate in ongoing reviews and tests to refine projects, ensuring high quality and performance
