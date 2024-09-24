@@ -3,20 +3,6 @@
 - [LinkedIn](https://www.linkedin.com/in/michael-mccardell-964955246/)
 - [Resume](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/Michael_McCardell_Resume.pdf)
   
-<h1>Work Experience</h1>
-
-
-### Game Developer at [Astro Games Studio](https://www.linkedin.com/company/astrogamestudio/)
-Project MissInfoWar - More info soon!
-- Started on 5/21/24 - present
-- Code Development: Produce clean, efficient, and maintainable code for different aspects of the game, including AI, user interfaces, and gameplay
-- QA and Review: Participate in ongoing reviews and tests to refine projects, ensuring high quality and performance
-- Problem Solving: Identify, debug, and solve software issues, contributing to the stability and efficiency of the game
-- Documentation: Maintain comprehensive documentation of development process to support the team and future project needs
-
-### Volunteer Game Developer at [Inchworm Games](https://www.linkedin.com/company/inchwormgames/)
-- Started on 3/21/24 - 5/20/24
-- Job Responsibilities: Review game design documents intended for those learning game engines. Build these simple games in engine while offering ideas for improvements if needed
 
 <h1> Personal/School Projects </h1>
 
