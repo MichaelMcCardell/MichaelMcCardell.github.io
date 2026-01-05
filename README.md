@@ -19,8 +19,7 @@ Project overview and responsibilities:
 - Kept team on track, ensuring all work was done by the deadline
 - Project was made over the course of five weeks
 - [Video link of 2D Side Scroller](https://www.youtube.com/watch?v=KP_exP3hImA&t=7s&ab_channel=MichaelMcCardell)
-  
-  
+
 ### Paintball World Demo 
 
 ![Paintball World Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/assets/159820419/52d5cbc2-f24a-4658-b4c8-03d8100a0ac3)
@@ -32,4 +31,15 @@ Project overview:
 - Features fully animated AI pawns, no combat system but will chase and follow player upon seeing the player
 - Paintball splat colors are random 
 - [Video link of Paintball World Demo](https://www.youtube.com/watch?v=wZSvrv_0dvc&ab_channel=MichaelMcCardell)
+
+### Clean Your Room
+
+![Paintball World Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/CleanYourRoom%20Pic.png)
+
+Project overview: 
+- Solo project
+- Third Person
+- Player collects five items spread throughout the room.
+- Features example of destructable environment and sounds pinging on item collection
+- [Video link of Paintball World Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0)
 
