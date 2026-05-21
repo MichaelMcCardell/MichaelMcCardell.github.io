@@ -34,7 +34,7 @@ Project overview:
 
 ### Clean Your Room
 
-![Paintball World Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/CleanYourRoom%20Pic.png)
+![Clearn Your Room Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/CleanYourRoom%20Pic.png)
 
 Project overview: 
 - Solo project
