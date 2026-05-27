@@ -41,5 +41,5 @@ Project overview:
 - Third Person
 - Player collects five items spread throughout the room.
 - Features example of destructable environment and sounds pinging on item collection
-- [Video link of Paintball World Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0)
+- [Video link of Clean Your Room Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0)
 
