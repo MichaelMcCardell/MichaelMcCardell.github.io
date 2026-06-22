@@ -34,12 +34,12 @@ Project overview:
 
 ### Clean Your Room
 
-![Paintball World Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/CleanYourRoom%20Pic.png)
+![Clearn Your Room Pic](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io/blob/main/Assets/img/CleanYourRoom%20Pic.png)
 
 Project overview: 
 - Solo project
 - Third Person
 - Player collects five items spread throughout the room.
 - Features example of destructable environment and sounds pinging on item collection
-- [Video link of Paintball World Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0)
+- [Video link of Clean Your Room Demo](https://www.youtube.com/watch?v=oBb7NASvZ_0)
 
