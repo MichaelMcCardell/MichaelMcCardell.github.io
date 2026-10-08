@@ -9,7 +9,7 @@
 
 Project overview and responsibilities: 
 - JRPG inspired project
-- I served as Gameplay Programmer Lead for this project
+- My role is Gameplay Programmer Lead for this project
 - Proposed the project; came up with initial story pitch, characters, proposed gameplay systems
 - Came up with setting for our upcoming slice (Work currently under NDA)
 - Lead team meetings, covered any blockers and making sure progress is being made
